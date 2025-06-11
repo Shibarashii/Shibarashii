@@ -11,7 +11,7 @@ I am a **Python** enthusiast, currently mastering my skills on machine learning 
 
 </details>
 
-## Socials
+## 👤 Socials
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
