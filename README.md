@@ -37,9 +37,9 @@ I am a **Python** enthusiast, currently mastering my skills on machine learning 
 
 ## 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shibarashii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shibarashii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /> <br> -->
   <img src="https://streak-stats.demolab.com?user=Shibarashii&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=Shibarashii&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibarashii&radius=16&theme=tokyonight&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=Shibarashii&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibarashii&radius=16&theme=tokyonight&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
 </div>
 
