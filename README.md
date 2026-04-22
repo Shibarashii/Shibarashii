@@ -43,3 +43,6 @@ I am a **Python** enthusiast, currently mastering my skills on machine learning 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibarashii&radius=16&theme=tokyonight&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
 </div>
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shibarashii)](https://github.com/Shibarashii/github-readme-stats)
+-->
