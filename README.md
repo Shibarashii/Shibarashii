@@ -15,33 +15,40 @@
 <table>
   <tr>
     <th> Languages: </th>
-    <th> <img src="https://skillicons.dev/icons?i=py,javascript,html,css,cs" height="30" alt="languages"  /></th>
+    <th> <img src="https://skillicons.dev/icons?i=py,javascript,html,css,cs" height="30" alt="languages"/></th>
   </tr>
   <tr>
 
   <tr>
     <th> Frontend: </th>
-    <th> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" height="30" alt="frontend"  /></th>
+    <th> <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" height="30" alt="frontend"/></th>
   </tr>
 
   <tr>
     <th> Backend: </th>
-    <th> <img src="https://skillicons.dev/icons?i=nodejs,django,flask,kafka" height="30" alt="backend"  /></th>
+    <th> <img src="https://skillicons.dev/icons?i=nodejs,django,flask,kafka" height="30" alt="backend"/></th>
   </tr>
 
   <tr>
     <th> AI/ML: </th>
-    <th> <img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="30" alt="ai"  /></th>
+    <th> <img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="30" alt="ai/ml"/></th>
   </tr>
 
   <tr>
     <th> Database: </th>
-    <th> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="30" alt="ai"  /></th>
+    <th> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="30" alt="database"/></th>
   </tr>
 
   <tr>
-    <th> Miscellaneous: </th>
-    <th> <img src="https://skillicons.dev/icons?i=linux,godot,arch" height="30" alt="ai"  /></th>
+    <th> Tools: </th>
+    <th> 
+        <img src="https://skillicons.dev/icons?i=vscode,vim,neovim,linux,figma" height="30" alt="tools"/>
+    </th>
+  </tr>
+
+  <tr>
+    <th> Others: </th>
+    <th> <img src="https://skillicons.dev/icons?i=godot,arch,mint" height="30" alt="others"/> </th>
   </tr>
 
 </table>
