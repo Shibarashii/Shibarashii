@@ -15,7 +15,7 @@
 <table>
   <tr>
     <th> Languages: </th>
-    <th> <img src="https://skillicons.dev/icons?i=py,javascript,html,css,cs" height="30" alt="languages"/></th>
+    <th> <img src="https://skillicons.dev/icons?i=py,javascript,typescript,html,css,cs" height="30" alt="languages"/></th>
   </tr>
   <tr>
 
